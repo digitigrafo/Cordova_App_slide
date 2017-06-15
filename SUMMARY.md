@@ -14,15 +14,16 @@
 	* [NPM](cosa/npm.md)
 	* [ADK](cosa/adk.md)
 	* [Java](cosa/java.md)
-* [Requirements](requirements.md)
+* [Requirements]
 * [HelloWord](hello.md)
 * [Contenuti]
 	* [Sito](sito.md)
 	* [json REST API](jsonrestapi.md)
+	* [sqlite](sqlite.md)	
 * [Apparenza grafica](grafica.md)
 * [Plugin](plugin.md)
 * [Diffusione]
 	* [F-droid](distro/fdroid.md)
 	* [Google play](distro/gplay.md)
-* [Prendi il codice](distro/code.md)
-* [Domande?](domande.md)
+* [Prendi il codice](code.md)
+

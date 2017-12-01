@@ -1,9 +1,7 @@
 
-#I love XM24
+#Applicazioni ibride con Cordova Apache
 
-#Presentazione dell'applicazione Android
+##Infarinatura su tutto quello che vi serve per farne una per Android 
 
-##Infarinatura su tutto quello che vi serve per farne una e dove trovare il codice
-
-hacklabbo/ignifugo@insicuri.net - Hackit 0x14 Val di Susa 2017
+Carnevali Cristina - Università di Ferrara - 1 Dicembre 2017 
 

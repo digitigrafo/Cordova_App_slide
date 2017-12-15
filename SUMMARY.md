@@ -1,29 +1,36 @@
 # Sommario
 
 * [Introduction](README.md)
-* [XM24](xm24.md)
-* [L'Altra città esiste](laltracitta.md)
-* [HacklaB0](hacklabbo.md)
-	* [Sito appello](hlb/appello.md)
-	* [Plugin WP](hlb/ribbon.md)
-	* [App XM24](hlb/app.md)
 * [Com'è/cos'è](come.md)
-* [Cosa ci serve]
-	* [Cordova](cosa/cordova.md)
+* [Esempi](esempi_app.md)
+* [Cosa ci serve](cosa.md)
 	* [Nodejs](cosa/nodejs.md)
 	* [NPM](cosa/npm.md)
+        * [Cordova](cosa/cordova.md)
 	* [ADK](cosa/adk.md)
 	* [Java](cosa/java.md)
-* [Requirements]
+* [Requirements](requirements.md)
 * [HelloWord](hello.md)
-* [Contenuti]
-	* [Sito](sito.md)
-	* [json REST API](jsonrestapi.md)
-	* [sqlite](sqlite.md)	
+- - - -
+* [Progettare](design.md)
+* [Interazioni](interazioni.md)
+* [Manipolare il DOM](manipolare.md)
 * [Apparenza grafica](grafica.md)
+* [esempi](esempi/esempi.md)
+* [esempio script jquery](radioscript.md)
+* [valutazione di usabilità](test_usa.md)
+* [config.xml](config.md)
 * [Plugin](plugin.md)
+* [Versionare](versionare.md)
+* [Licenze](licenze.md)
+* [Task](task.md)
 * [Diffusione]
 	* [F-droid](distro/fdroid.md)
 	* [Google play](distro/gplay.md)
-* [Prendi il codice](code.md)
+	* [Firma](sign.md)
+* [Contenuti remoti]
+	* [Sito](sito.md)
+	* [json REST API](jsonrestapi.md)
+	* [sqlite](sqlite.md)	
+
 

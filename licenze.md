@@ -1,0 +1,5 @@
+#Licenze
+
+* MIT
+* APACHE
+* GPL

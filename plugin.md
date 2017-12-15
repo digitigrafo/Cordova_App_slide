@@ -1,4 +1,6 @@
-#PLUGINS
+# Cordova PLUGINS
+
+[https://cordova.apache.org/plugins/](https://cordova.apache.org/plugins/)
 ```
     cordova-plugin-compat
     cordova-plugin-file

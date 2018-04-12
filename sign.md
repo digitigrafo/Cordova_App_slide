@@ -1,6 +1,6 @@
 #Firmare le app in produzione
 
-	nano platforms/android/release-signing.propertie
+	nano platforms/android/release-signing.properties
 	cordova build android --release
 
 CON QUESTO TESTO DENTRO AL FILE DI TESTO:
@@ -16,4 +16,5 @@ Per generare la chiave, se non ne avete una data dal progetto o vostra:
 esempio di chiave che dura 10 ANNI:
 	keytool -genkey -v -keystore edizioniprogetto.keystore -alias progetto -keyalg RSA -keysize 2048 -validity 3650
 
-	
+Per compilare facendo semplicemente release, bisogna aggiundere questo:
+https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#extending-buildgradle 

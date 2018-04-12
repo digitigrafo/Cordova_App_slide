@@ -3,7 +3,17 @@
 	nano platforms/android/release-signing.propertie
 	cordova build android --release
 
-storeFile=/home/cricco/serraturagmarket.jks
-storeType=jks
-keyAlias=myname
+CON QUESTO TESTO DENTRO AL FILE DI TESTO:
 
+        storeFile=/home/cricco/serraturagmarket.jks
+	storeType=jks
+	keyAlias=myname
+
+Per generare la chiave, se non ne avete una data dal progetto o vostra:
+
+	keytool -genkey -v -keystore <keystoreName>.keystore -alias <Keystore AliasName> -keyalg <Key algorithm> -keysize <Key size> -validity <Key Validity in Days>
+	
+esempio di chiave che dura 10 ANNI:
+	keytool -genkey -v -keystore edizioniprogetto.keystore -alias progetto -keyalg RSA -keysize 2048 -validity 3650
+
+	

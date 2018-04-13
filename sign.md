@@ -17,4 +17,4 @@ esempio di chiave che dura 10 ANNI:
 	keytool -genkey -v -keystore edizioniprogetto.keystore -alias progetto -keyalg RSA -keysize 2048 -validity 3650
 
 Per compilare facendo semplicemente release, bisogna aggiundere questo:
-https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#extending-buildgradle 
+https://issues.apache.org/jira/browse/CB-13684
